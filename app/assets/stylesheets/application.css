@@ -8,3 +8,15 @@
 .homeELearning {
     width: 100%;
 }
+.listCourses {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.imageHeight {
+    height: 180px;
+}
+.cardCustom {
+    margin: 2rem;
+    width: 18rem;
+}
